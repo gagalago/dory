@@ -34,7 +34,7 @@ GEM
     powerpack (0.1.2)
     ptools (1.3.5)
     rainbow (3.0.0)
-    rake (11.3.0)
+    rake (12.3.3)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
@@ -75,7 +75,7 @@ DEPENDENCIES
   byebug (~> 9.0)
   codeclimate-test-reporter (~> 0.6)
   dory!
-  rake (~> 11.2)
+  rake (~> 12.3)
   rspec (~> 3.4)
   rubocop (~> 0.47)
 
